@@ -1,0 +1,19 @@
+{
+  "name": "paul-graham",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lw7360/paul-graham.git"
+  },
+  "author": "Larry Wu <lw7360@gmail.com> (http://larrywu.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lw7360/paul-graham/issues"
+  },
+  "homepage": "https://github.com/lw7360/paul-graham#readme"
+}
