@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lw7360/paul-graham/issues"
   },
-  "homepage": "https://github.com/lw7360/paul-graham#readme"
+  "homepage": "https://github.com/lw7360/paul-graham#readme",
+  "dependencies": {
+    "feed-read": "0.0.1"
+  }
 }
